@@ -521,11 +521,11 @@ margin-left: 50px;
     padding-bottom: 94px;
 }
 
-.our-team section {
+.our-team {
     background-color: var(--secondary-bg-color);
 }
 
-.features section {
+.features {
     background-color:var(--secondary-text-color);
 }
 
